@@ -1,4 +1,4 @@
-# CV_Data_Scientist_and_AI_Engineer
+# CV
 CV for Data Scientist and AI Engineer
 
 - **Myoungchul_Kim_CV.pdf**: English CV
